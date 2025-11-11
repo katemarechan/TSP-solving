@@ -1,0 +1,3 @@
+C:/Users/missk/OneDrive/Рабочий стол/semestr 5/PEA2_Kolyshko/PEA_Second/cmake-build-debug/CMakeFiles/PEA_Better.dir
+C:/Users/missk/OneDrive/Рабочий стол/semestr 5/PEA2_Kolyshko/PEA_Second/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/missk/OneDrive/Рабочий стол/semestr 5/PEA2_Kolyshko/PEA_Second/cmake-build-debug/CMakeFiles/rebuild_cache.dir

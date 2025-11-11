@@ -1,0 +1,2 @@
+Type, Algorithm Used, Best Tour, Minimum Distance, Time Of Execution
+ATSP, DFS, 0 1 6 11 9 5 10 3 4 2 7 8 , 202, 0.117792ms

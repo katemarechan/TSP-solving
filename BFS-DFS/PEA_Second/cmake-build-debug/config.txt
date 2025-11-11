@@ -1,0 +1,4 @@
+INPUT_FILE: ..\cmake-build-debug\tsp_data_asym\entryData12_asm.txt
+ALGORITHM: DFS
+SHOW_STEPS: OFF
+OUTPUT_FILE: tsp_res.csv

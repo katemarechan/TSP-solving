@@ -1,0 +1,15 @@
+TYPE: TSP  
+DIMENSION: 9  
+FORMAT: EUC_2D  
+OPT: 145  
+DATA_SECTION  
+1 10 20  
+2 25 35  
+3 40 50  
+4 55 65  
+5 70 80  
+6 85 95  
+7 15 45  
+8 30 60  
+9 50 70  
+EOF
